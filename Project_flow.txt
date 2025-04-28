@@ -1,0 +1,7 @@
+1. Bulding Pipeline:
+   > Create a github repo and clone it in local (add exprements).
+   > Add scr folder along with all componemts (run them individually).
+   > Add data, models, repots directories to .gitignore file.
+   > Now git add, commit, push
+
+2.    
