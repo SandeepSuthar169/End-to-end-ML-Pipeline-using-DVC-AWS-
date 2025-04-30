@@ -1,0 +1,17 @@
+2025-04-30 19:23:40,854-data_ingestion-ERROR-Unexpected error occurred while loading the data: [Errno 2] No such file or directory: 'data_url'
+2025-04-30 19:23:40,855-data_ingestion-ERROR-Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'data_url'
+2025-04-30 19:55:02,792-data_ingestion-DEBUG-Data loaded form https://raw.githubusercontent.com/SandeepSuthar169/Datasets/refs/heads/main/spam.csv
+2025-04-30 19:55:02,797-data_ingestion-ERROR-Missing coluns in the dataframe: "['Unnamed:2', 'Unnamed:3', 'Unnamed:4'] not found in axis"
+2025-04-30 19:55:02,797-data_ingestion-ERROR-Failed to complete the data ingestion process: "['Unnamed:2', 'Unnamed:3', 'Unnamed:4'] not found in axis"
+2025-04-30 19:55:40,782-data_ingestion-DEBUG-Data loaded form https://raw.githubusercontent.com/SandeepSuthar169/Datasets/refs/heads/main/spam.csv
+2025-04-30 19:55:40,783-data_ingestion-ERROR-Missing coluns in the dataframe: "['Unnamed : 2', 'Unnamed : 3', 'Unnamed : 4'] not found in axis"
+2025-04-30 19:55:40,784-data_ingestion-ERROR-Failed to complete the data ingestion process: "['Unnamed : 2', 'Unnamed : 3', 'Unnamed : 4'] not found in axis"
+2025-04-30 19:59:04,664-data_ingestion-DEBUG-Data loaded form https://raw.githubusercontent.com/SandeepSuthar169/Datasets/refs/heads/main/spam.csv
+2025-04-30 19:59:04,685-data_ingestion-DEBUG-Data preprocessing completed
+2025-04-30 19:59:04,711-data_ingestion-DEBUG-Train and test data saved to ./data\processed
+2025-04-30 20:01:32,109-data_ingestion-DEBUG-Data loaded form https://raw.githubusercontent.com/SandeepSuthar169/Datasets/refs/heads/main/spam.csv
+2025-04-30 20:01:32,121-data_ingestion-DEBUG-Data preprocessing completed
+2025-04-30 20:01:32,147-data_ingestion-DEBUG-Train and test data saved to ./data\processed
+2025-04-30 23:44:54,648-data_ingestion-DEBUG-Data loaded form https://raw.githubusercontent.com/SandeepSuthar169/Datasets/refs/heads/main/spam.csv
+2025-04-30 23:44:54,676-data_ingestion-DEBUG-Data preprocessing completed
+2025-04-30 23:44:54,700-data_ingestion-DEBUG-Train and test data saved to ./data\raw
