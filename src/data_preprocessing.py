@@ -95,6 +95,7 @@ def main(text_column='text', target_column='target'):
     except Exception as e:
         logger.error('Failed to complete the data transformation process: %s', e)
         print(f"Error: {e}")
+        
 
 if __name__ == "__main__":
     main()
